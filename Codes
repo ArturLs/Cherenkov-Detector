@@ -1,0 +1,6 @@
+Hits->Draw("fX:fY", "", "colz")   ---- Histograma, mapa de calor  de detector onde esta havendo produção de fotons, onde ha havendo detectação X x Y
+
+
+root <Name>
+TBrowser
+
