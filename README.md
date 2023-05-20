@@ -22,7 +22,7 @@ charged particles such as protons, electrons and muons.
 
 - use “cmake” to compile the source code:
 
-`$ cmake ../source`
+`$ cmake ..`
 
 `$ make -jX install` (X=2,4,8 as number of cores to use in the compilation)
 
